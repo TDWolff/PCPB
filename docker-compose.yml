@@ -1,0 +1,10 @@
+version: '3'
+services:
+        web:
+                image: pcpb
+                build: .
+                ports:
+                        - "8873:8873"
+                volumes:
+                        - ./instance:/instance
+                restart: unless-stopped
