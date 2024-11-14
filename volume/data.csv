@@ -1,18 +1,77 @@
-asin,current_price,average_price
-B0CQ4DTJYX, 129.00, 169.00
-B08164VTWH, 227.00, 569.99
-B09VCHR1VH, 120.29, 199.00
-B09VCHQHZ6, 150.00, 319.00
-B09FXDLX95, 599.99, 620.00
-B08164VTWH, 227.00, 569.99
-B0815XFSGK, 160.00, 449.00
-B09RWL74GY, 239.00, 379.99
-B0BCF57FL5, 286.00, 419.00
-B09FXKHN7M, 199.00, 199.00
-B09FX4D72T, 168.97, 342.50 
-B0CGJDKLB8, 438.49, 462.00
-B0BCF5CZ16, 175.00, 304.00
-B09FXNVDBJ, 190.00, 190.00
-B0BCF54SR1, 401.00, 629.99
-B0BCFM3CJ4, 380.00, 599.00
-B0BCDR9M33, 210.00, 329.00
+asin,current_price,average_price,name
+B0CQ4DTJYX,129.0,169.0,"AMD Ryzen 5 5600GT 6-Core, 12-Thread Desktop Processor"
+B08164VTWH,226.98,569.99,"AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"
+B09VCHR1VH,117.4,199.0,"AMD Ryzen 5 5600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler"
+B09VCHQHZ6,150.0,319.0,"AMD Ryzen 7 5700X 8-Core, 16-Thread Unlocked Desktop Processor"
+B09FXDLX95,273.95,273.95,Intel Core i9-12900K Gaming Desktop Processor with Integrated Graphics and 16 (8P+8E) Cores up to 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W
+B08164VTWH,226.98,569.99,"AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor"
+B0815XFSGK,174.99,449.0,"AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor"
+B09RWL74GY,296.49,349.0,Intel Core i9 (12th Gen) i9-12900KS Gaming Desktop Processor with Integrated Graphics and Hexadeca-core (16 Core) 2.50 GHz
+B0BCF57FL5,283.84,419.0,Intel Core i7-13700K Gaming Desktop Processor 16 cores (8 P-cores + 8 E-cores) with Integrated Graphics - Unlocked
+B09FXKHN7M,191.20,191.20,Intel Core i7-12700KF Gaming Desktop Processor 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W
+B09FX4D72T,167.0,342.5,Intel Core i5-12600K Desktop Processor with Integrated Graphics and 10 (6P+4E) Cores up to 4.9 GHz Unlocked LGA1700 600 Series Chipset 125W
+B0CGJDKLB8,438.47,461.98,Intel® CoreTM i9-14900K New Gaming Desktop Processor 24 (8 P-cores + 16 E-cores) with Integrated Graphics - Unlocked
+B0BCF5CZ16,175.0,304.0,Intel Core i5-13600KF Desktop Processor 14 cores (6 P-cores + 8 E-cores) - Unlocked
+B09FXNVDBJ,213.97,225.99,Intel Core i7-12700K Gaming Desktop Processor with Integrated Graphics and 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W
+B0BCF54SR1,401.0,629.99,Intel Core i9-13900K Desktop Processor 24 (8 P-cores + 16 E-cores) with Integrated Graphics - Unlocked
+B0BCFM3CJ4,375.0,599.0,Intel Core i9-13900KF Gaming Desktop Processor 24 cores (8 P-cores + 16 E-cores) - Unlocked
+B0BCDR9M33,210.0,329.0,Intel Core i5-13600K Desktop Processor 14 (6 P-cores + 8 E-cores) with Integrated Graphics - Unlocked
+B08WPRMVWB,284.97,284.97,MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Torx Twin Fan Ampere OC Graphics Card
+B0CVCKX2GD,599.97,599.97,"ASUS Dual GeForce RTX™ 4070 Super EVO OC Edition 12GB GDDR6X (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, 2.5-Slot Design, Axial-tech Fan Design, 0dB Technology, and More)"
+B0CGHQ32S2,489.0,489.0,"GIGABYTE Radeon RX 7800 XT Gaming OC 16G Graphics Card, 3X WINDFORCE Fans 16GB 256-bit GDDR6, GV-R78XTGAMING OC-16GD Video Card"
+B0C8KQRH32,299.99,319.99,"GIGABYTE GeForce RTX 4060 Gaming OC 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060GAMING OC-8GD Video Card"
+B0B34M1YLW,308.98,399.99,"XFX Speedster QICK319 Radeon RX 6750XT CORE Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-675XYJFDP"
+B0CSVJZNNX,314.97,329.99,"GIGABYTE Radeon RX 7600 XT Gaming OC 16G Graphics Card, 3X WINDFORCE Fans 16GB 128-bit GDDR6, GV-R76XTGAMING OC-16GD Video Card"
+B0CQPXD5WD,849.0,849.0,"ASUS TUF Gaming NVIDIA GeForce RTX™ 4070 Ti Super OC Edition Gaming Graphics Card (PCIe 4.0, 16GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a),RTX4070Ti|OC|Black"
+B0D6ZN2P1J,839.99,839.99,"MSI GeForce RTX 4070 Ti Super 16G Ventus 3X Black OC Graphics Card (NVIDIA RTX 4070 Ti Super, 256-Bit, Extreme Clock: 2655 MHz, 16GB GDRR6X 21Gbps, HDMI/DP, Ada Lovelace Architecture)"
+B09H3PY14M,199.99,199.99,PowerColor Fighter AMD Radeon RX 6600 Graphics Card with 8GB GDDR6 Memory
+B0C8BPW1SP,298.97,298.97,MSI Gaming GeForce RTX 4060 8GB GDRR6 Extreme Clock: 2505 MHz 128-Bit HDMI/DP Nvlink TORX Fan 4.0 Ada Lovelace Architecture Graphics Card (RTX 4060 Ventus 2X Black 8G OC)
+B06Y66K3XD,130.52,130.52,"XFX Radeon RX 580 GTS XXX Edition 1386MHz OC+, 8GB GDDR5, VR Ready, Dual BIOS, 3xDP HDMI DVI, AMD Graphics Card (RX-580P8DFD6)"
+B0CSKBG4T3,1099.97,1099.97,"GIGABYTE GeForce RTX 4080 Super AERO OC 16G Graphics Card, 3X WINDFORCE Fans, 16GB 256-bit GDDR6X, GV-N408SAERO OC-16GD Video Card"
+B0985X2YR1,299.97,299.97,"ASUS Dual NVIDIA GeForce RTX 3060 V2 OC Edition 12GB GDDR6 Gaming Graphics Card (PCIe 4.0, 12GB GDDR6 Memory, HDMI 2.1, DisplayPort 1.4a, 2-Slot, Axial-tech Fan Design, 0dB Technology)"
+B0BZHCQ6PF,549.99,549.99,"GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N4070WF3OC-12GD Video Card"
+B0C8JZNLZL,299.99,299.99,"GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G Graphics Card, 2X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060WF2OC-8GD Video Card"
+B0C8K3DFD9,319.99,319.99,"GIGABYTE GeForce RTX 4060 AERO OC 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060AERO OC-8GD Video Card"
+B0971BG25M,289.99,319.99,"GIGABYTE GeForce RTX 3060 Gaming OC 12G (REV2.0) Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6, GV-N3060GAMING OC-12GD Video Card"
+B0D4XZXLL7,169.99,179.99,"GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G Graphics Card, 2X WINDFORCE Fans, 6GB GDDR6 96-bit GDDR6, GV-N3050WF2OC-6GD Video Card"
+B0CVPDY3HN,304.99,304.99,"ASUS Dual GeForce RTX™ 4060 EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, 0dB Technology, Dual BIOS, Auto-Extreme Technology, and More)"
+B0CSZCV12L,1149.97,1149.97,"ASUS ProArt GeForce RTX™ 4080 Super OC Edition Graphics Card (PCIe 4.0, 16GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort 1.4a)"
+B07RW6Z692,51.0,79.99,CORSAIR VENGEANCE LPX DDR4 RAM 32GB (2x16GB) 3200MHz CL16-20-20-38 1.35V Intel AMD Desktop Computer Memory - Black (CMK32GX4M2E3200C16)
+B08C4X9VR5,56.82,65.99,Crucial RAM 32GB Kit (2x16GB) DDR4 3200MHz CL22 (or 2933MHz or 2666MHz) Laptop Memory CT2K16G4SFRA32A
+B07ZPLM1R1,64.0,84.99,CORSAIR VENGEANCE LPX DDR4 RAM 32GB (2x16GB) 3600MHz CL18-22-22-42 1.35V Intel AMD Desktop Computer Memory - Black (CMK32GX4M2D3600C18)
+B0BXHC74WD,102.99,129.99,CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6400MHz CL36-48-48-104 1.35V Intel XMP Desktop Computer Memory - Black (CMH32GX5M2B6400C36)
+B0143UM4TC,39.99,49.99,CORSAIR VENGEANCE LPX DDR4 RAM 16GB (2x8GB) 3200MHz CL16-18-18-36 1.35V Intel AMD Desktop Computer Memory - Black (CMK16GX4M2B3200C16)
+B0C29R9LNL,53.99,94.99,Crucial Pro RAM 32GB Kit (2x16GB) DDR4 3200MHz (or 3000MHz or 2666MHz) Desktop Memory CP2K16G4DFRA32A
+B0BZHTVHN5,99.99,104.99,CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL36-44-44-96 1.35V Intel XMP Desktop Computer Memory - Black (CMH32GX5M2E6000C36)
+B07Y4ZZ7LQ,99.99,104.99,CORSAIR VENGEANCE LPX DDR4 RAM 64GB (2x32GB) 3200MHz CL16-20-20-38 1.35V Intel AMD Desktop Computer Memory - Black (CMK64GX4M2E3200C16)
+B0C1TKSDKR,99.99,99.99,G.SKILL Flare X5 Series (AMD Expo) DDR5 RAM 32GB (2x16GB) 6000MT/s CL30-38-38-96 1.35V Desktop Computer Memory UDIMM - Matte Black (F5-6000J3038F16GX2-FX5)
+B0BF8FVLSL,109.99,109.99,G.SKILL Trident Z5 Neo RGB Series (AMD Expo) DDR5 RAM 32GB (2x16GB) 6000MT/s CL30-38-38-96 1.35V Desktop Computer Memory UDIMM - Matte Black (F5-6000J3038F16GX2-TZ5NR)
+B0BLTDRRLF,89.5,109.99,"Crucial RAM 32GB Kit (2x16GB) DDR5 5600MHz (or 5200MHz or 4800MHz) Laptop Memory CT2K16G56C46S5, Black"
+B0C3RYHZJQ,119.99,119.99,CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30)
+B0171GQR0C,51.0,51.00,G.SKILL Ripjaws V Series (Intel XMP) DDR4 RAM 32GB (2x16GB) 3200MT/s CL16-18-18-38 1.35V Desktop Computer Memory UDIMM - Black (F4-3200C16D-32GVK)
+B09R7S7PXC,154.99,184.99,CORSAIR VENGEANCE DDR5 RAM 64GB (2x32GB) 5200MHz CL40-40-40-77 1.25V Intel XMP Desktop Computer Memory - Black (CMK64GX5M2B5200C40)
+B07RS1G6XW,32.99,32.99,CORSAIR VENGEANCE LPX DDR4 RAM 16GB (2x8GB) 3200MHz CL16-20-20-38 1.35V Intel AMD Desktop Computer Memory - Black (CMK16GX4M2E3200C16)
+B0BPTKD797,114.99,114.99,CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V AMD EXPO Intel XMP Desktop Computer Memory - Gray (CMH32GX5M2B6000Z30K)
+B082DGZJ9C,85.99,85.99,CORSAIR VENGEANCE RGB PRO DDR4 RAM 32GB (2x16GB) 3600MHz CL18-22-22-42 1.35V Intel AMD Desktop Computer Memory - Black (CMW32GX4M2Z3600C18)
+B0C79H54TQ,148.99,148.99,Crucial Pro RAM 64GB Kit (2x32GB) DDR5 5600MHz (or 5200MHz or 4800MHz) Desktop Memory CP2K32G56C46U5
+B09KN7463D,25.99,39.99,CORSAIR Vengeance SODIMM DDR4 RAM 16GB (1x16GB) 3200MHz CL22-22-22-53 1.2V Intel AMD Laptop Notebook Memory - Black (CMSX16GX4M1A3200C22)
+B07Z45XB3G,62.99,62.99,G.SKILL Ripjaws V Series (Intel XMP) DDR4 RAM 32GB (2x16GB) 3600MT/s CL16-19-19-39 1.35V Desktop Computer Memory UDIMM - Black (F4-3600C16D-32GVKC)
+B0CTHXMYL8,96.99,118.99,"Crucial Pro DDR5 RAM 32GB Kit (2x16GB) CL36 6000MHz, Overclocking Desktop Gaming Memory, Intel XMP 3.0 & AMD Expo Compatible – Black CP2K16G60C36U5B"
+B07D1XCKWW,54.99,64.99,CORSAIR VENGEANCE RGB PRO DDR4 RAM 16GB (2x8GB) 3200MHz CL16-18-18-36 1.35V Intel AMD Desktop Computer Memory - Black (CMW16GX4M2C3200C16)
+B0BHJJ9Y77,159.99,249.99,"SAMSUNG 990 PRO SSD NVMe M.2 PCIe Gen4, M.2 2280 Internal Solid State Hard Drive, Seq. Read Speeds Up to 7,450 MB/s for High End Computing, Gaming, and Heavy Duty Workstations, MZ-V9P2T0B/AM"
+B0CRCC9863,69.99,149.99,"SAMSUNG 990 EVO SSD 1TB, PCIe Gen 4x4, Gen 5x2 M.2 2280 NVMe Internal Solid State Drive, Speeds Up to 5,000MB/s, Upgrade Storage for PC Computer, Laptop, MZ-V9E1T0B/AM, Black"
+B0B25ML2FH,113.29,169.99,"Crucial P3 Plus 2TB PCIe Gen4 3D NAND NVMe M.2 SSD, up to 5000MB/s - CT2000P3PSSD8"
+B0B7CMZ3QH,139.99,189.99,"WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E"
+B0C47ZX1WB,179.99,229.99,"WD_BLACK 2TB SN850P NVMe M.2 SSD Officially Licensed Storage Expansion for PS5 Consoles, up to 7,300MB/s, with heatsink - WDBBYV0020BNC-WRSN"
+B09QV692XY,72.99,72.99,"Western Digital WD_BLACK 1TB SN770 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 5,150 MB/s - WDS100T3X0E"
+B0BBWH1R8H,55.0,73.99,Kingston NV2 1TB M.2 2280 NVMe Internal SSD | PCIe 4.0 Gen 4x4 | Up to 3500 MB/s | SNV2S/1000G
+B0B25LZGGW,61.99,89.99,"Crucial P3 1TB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT1000P3SSD8"
+B0C8WPRM9T,109.99,139.99,"Western Digital 2TB WD Blue SN580 NVMe Internal Solid State Drive SSD - Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 4,150 MB/s - WDS200T3B0E"
+B08V83JZH4,74.99,139.99,"SAMSUNG 980 SSD 1TB PCle 3.0x4, NVMe M.2 2280, Internal Solid State Drive, Storage for PC, Laptops, Gaming and More, HMB Technology, Intelligent Turbowrite, Speeds of up-to 3,500MB/s, MZ-V8V1T0B/AM"
+B07MFZXR1B,170.99,149.95,SAMSUNG 970 EVO Plus SSD 2TB - M.2 NVMe Interface Internal Solid State Drive with V-NAND Technology (MZ-V7S2T0B/AM)
+B0DC8RVRBZ,129.99,149.95,"Crucial P310 2TB 2280 PCIe Gen4 3D NAND NVMe M.2 SSD – Up to 7,100 MB/s – Shift up to Gen4, with Acronis Offer, Internal Solid State Drive (PC) – CT2000P310SSD801"
+B0CTRVZKG7,264.99,429.99,"Crucial New 2024 T705 2TB PCIe Gen5 NVMe M.2 SSD - Up to 14,500 MB/s - Game Ready - Internal Solid State Drive (PC) - +1mo Adobe CC - CT2000T705SSD3"
+B0CK2TC9XQ,145.99,189.99,"Crucial T500 2TB Gen4 NVMe M.2 Internal Gaming SSD, Up to 7400MB/s, Laptop & Desktop Compatible + 1mo Adobe CC All Apps - CT2000T500SSD8"
+B0C3K7MTSY,209.99,228.72,"Crucial T700 2TB Gen5 NVMe M.2 SSD - Up to 12,400 MB/s - DirectStorage Enabled - CT2000T700SSD3 - Gaming, Photography, Video Editing & Design - Internal Solid State Drive"
+B07XJ2P1LK,33.99,42.99,TEAMGROUP MP33 512GB SLC Cache 3DNAND TLC NVMe PCIe Gen3x4 M.2 2280 Internal SSD R/W up to 1700/1400 MB/s Compatible w/ Laptop&Desktop TM8FP6512G0C101
+B0CBYZ6DD1,316.9,333.0,"Samsung 990 PRO NVMe M.2 SSD, 4 TB, PCIe 4.0, 7,450 MB/s Read, 6,900 MB/s Write, Internal SSD, for Gaming and Video Editing, MZ-V9P4T0BW"
