@@ -7,4 +7,3 @@ pandas
 threading
 datetime
 pathlib
-re
