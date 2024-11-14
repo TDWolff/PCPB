@@ -1,0 +1,6 @@
+Flask
+requests
+Werkzeug
+Flask_Restful
+Flask_Cors
+pandas
