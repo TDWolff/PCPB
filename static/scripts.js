@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('http://127.0.0.1:8873/api/price')
+    fetch('/api/price')
         .then(response => response.json())
         .then(data => {
             const dealsContainer = document.getElementById('deals-scroll');
