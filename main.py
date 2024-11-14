@@ -1,8 +1,6 @@
 from flask import render_template
-import requests
 from init import app
 from api.amazonpricing import update_prices
-import threading
 
 from api.priceapi import price_api
 
