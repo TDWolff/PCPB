@@ -4,3 +4,4 @@ Werkzeug
 Flask_Restful
 Flask_Cors
 pandas
+Flask_SQLAlchemy
