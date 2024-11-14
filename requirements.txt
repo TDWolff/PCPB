@@ -4,6 +4,3 @@ Werkzeug
 Flask_Restful
 Flask_Cors
 pandas
-threading
-datetime
-pathlib
