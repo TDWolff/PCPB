@@ -43,7 +43,73 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 3000); // Change slide every 3 seconds
         })
         .catch(error => console.error('Error fetching deals:', error));
+
+    const form = document.getElementById('pc-parts-form');
+
+    form.addEventListener('submit', function(event) {
+        event.preventDefault();
+
+        const cpu = document.getElementById('cpu').value;
+        const gpu = document.getElementById('gpu').value;
+
+        const pcParts = {
+            cpu: cpu,
+            cpuBrand: getBrand(cpu, ['Intel', 'AMD']),
+            gpu: gpu,
+            gpuBrand: getBrand(gpu, ['NVIDIA', 'AMD']),
+            psu: document.getElementById('psu').value,
+            motherboard: document.getElementById('motherboard').value,
+            ram: document.getElementById('ram').value,
+            storage: document.getElementById('storage').value,
+            case: document.getElementById('case').value,
+            fans: document.getElementById('fans').value,
+            cpuCooler: document.getElementById('cpu-cooler').value
+        };
+
+        localStorage.setItem('pcParts', JSON.stringify(pcParts));
+        alert('PC parts saved successfully!');
+    });
+
+    // Load saved parts if available
+    const savedParts = JSON.parse(localStorage.getItem('pcParts'));
+    if (savedParts) {
+        document.getElementById('cpu').value = savedParts.cpu || '';
+        document.getElementById('gpu').value = savedParts.gpu || '';
+        document.getElementById('psu').value = savedParts.psu || '';
+        document.getElementById('motherboard').value = savedParts.motherboard || '';
+        document.getElementById('ram').value = savedParts.ram || '';
+        document.getElementById('storage').value = savedParts.storage || '';
+        document.getElementById('case').value = savedParts.case || '';
+        document.getElementById('fans').value = savedParts.fans || '';
+        document.getElementById('cpu-cooler').value = savedParts.cpuCooler || '';
+    }
+
+    // Fetch parts data for autocomplete
+    fetch('/api/parts')
+        .then(response => response.json())
+        .then(partsDict => {
+            // Enable autocomplete for form fields based on part type
+            $("#cpu").autocomplete({ source: partsDict.CPU });
+            $("#gpu").autocomplete({ source: partsDict.GPU });
+            $("#psu").autocomplete({ source: partsDict.PSU });
+            $("#motherboard").autocomplete({ source: partsDict.Motherboard });
+            $("#ram").autocomplete({ source: partsDict.RAM });
+            $("#storage").autocomplete({ source: partsDict.Storage });
+            $("#case").autocomplete({ source: partsDict.Case });
+            $("#fans").autocomplete({ source: partsDict.Fans });
+            $("#cpu-cooler").autocomplete({ source: partsDict["CPU Cooler"] });
+        })
+        .catch(error => console.error('Error fetching parts:', error));
 });
+
+function getBrand(partName, brands) {
+    for (const brand of brands) {
+        if (partName.toLowerCase().includes(brand.toLowerCase())) {
+            return brand;
+        }
+    }
+    return 'Unknown';
+}
 
 let slideIndex = 0;
 let slideInterval;

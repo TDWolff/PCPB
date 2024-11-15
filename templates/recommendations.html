@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PC Prebuilt Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <main>
+        <section id="pc-parts-selection">
+            <h1>Select Your Current PC Parts</h1>
+            <div class="form-container">
+                <form id="pc-parts-form">
+                    <div class="form-group">
+                        <label for="cpu">CPU:</label>
+                        <input type="text" id="cpu" name="cpu">
+                    </div>
+                    <div class="form-group">
+                        <label for="gpu">GPU:</label>
+                        <input type="text" id="gpu" name="gpu">
+                    </div>
+                    <div class="form-group">
+                        <label for="psu">PSU:</label>
+                        <input type="text" id="psu" name="psu">
+                    </div>
+                    <div class="form-group">
+                        <label for="motherboard">Motherboard:</label>
+                        <input type="text" id="motherboard" name="motherboard">
+                    </div>
+                    <div class="form-group">
+                        <label for="ram">RAM:</label>
+                        <input type="text" id="ram" name="ram">
+                    </div>
+                    <div class="form-group">
+                        <label for="storage">Storage:</label>
+                        <input type="text" id="storage" name="storage">
+                    </div>
+                    <div class="form-group">
+                        <label for="case">Case:</label>
+                        <input type="text" id="case" name="case">
+                    </div>
+                    <div class="form-group">
+                        <label for="fans">Fans:</label>
+                        <input type="text" id="fans" name="fans">
+                    </div>
+                    <div class="form-group">
+                        <label for="cpu-cooler">CPU Cooler:</label>
+                        <input type="text" id="cpu-cooler" name="cpu-cooler">
+                    </div>
+                    <button type="submit">Save Parts</button>
+                </form>
+            </div>
+        </section>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>

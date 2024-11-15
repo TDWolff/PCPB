@@ -8,7 +8,7 @@ B08164VTWH,226.98,569.99,"AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop 
 B0815XFSGK,174.99,449.0,"AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor"
 B09RWL74GY,296.49,349.0,Intel Core i9 (12th Gen) i9-12900KS Gaming Desktop Processor with Integrated Graphics and Hexadeca-core (16 Core) 2.50 GHz
 B0BCF57FL5,283.84,419.0,Intel Core i7-13700K Gaming Desktop Processor 16 cores (8 P-cores + 8 E-cores) with Integrated Graphics - Unlocked
-B09FXKHN7M,191.20,191.20,Intel Core i7-12700KF Gaming Desktop Processor 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W
+B09FXKHN7M,191.2,191.2,Intel Core i7-12700KF Gaming Desktop Processor 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W
 B09FX4D72T,167.0,342.5,Intel Core i5-12600K Desktop Processor with Integrated Graphics and 10 (6P+4E) Cores up to 4.9 GHz Unlocked LGA1700 600 Series Chipset 125W
 B0CGJDKLB8,438.47,461.98,Intel® CoreTM i9-14900K New Gaming Desktop Processor 24 (8 P-cores + 16 E-cores) with Integrated Graphics - Unlocked
 B0BCF5CZ16,175.0,304.0,Intel Core i5-13600KF Desktop Processor 14 cores (6 P-cores + 8 E-cores) - Unlocked
@@ -48,7 +48,7 @@ B0C1TKSDKR,99.99,99.99,G.SKILL Flare X5 Series (AMD Expo) DDR5 RAM 32GB (2x16GB)
 B0BF8FVLSL,109.99,109.99,G.SKILL Trident Z5 Neo RGB Series (AMD Expo) DDR5 RAM 32GB (2x16GB) 6000MT/s CL30-38-38-96 1.35V Desktop Computer Memory UDIMM - Matte Black (F5-6000J3038F16GX2-TZ5NR)
 B0BLTDRRLF,89.5,109.99,"Crucial RAM 32GB Kit (2x16GB) DDR5 5600MHz (or 5200MHz or 4800MHz) Laptop Memory CT2K16G56C46S5, Black"
 B0C3RYHZJQ,119.99,119.99,CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30)
-B0171GQR0C,51.0,51.00,G.SKILL Ripjaws V Series (Intel XMP) DDR4 RAM 32GB (2x16GB) 3200MT/s CL16-18-18-38 1.35V Desktop Computer Memory UDIMM - Black (F4-3200C16D-32GVK)
+B0171GQR0C,51.0,51.0,G.SKILL Ripjaws V Series (Intel XMP) DDR4 RAM 32GB (2x16GB) 3200MT/s CL16-18-18-38 1.35V Desktop Computer Memory UDIMM - Black (F4-3200C16D-32GVK)
 B09R7S7PXC,154.99,184.99,CORSAIR VENGEANCE DDR5 RAM 64GB (2x32GB) 5200MHz CL40-40-40-77 1.25V Intel XMP Desktop Computer Memory - Black (CMK64GX5M2B5200C40)
 B07RS1G6XW,32.99,32.99,CORSAIR VENGEANCE LPX DDR4 RAM 16GB (2x8GB) 3200MHz CL16-20-20-38 1.35V Intel AMD Desktop Computer Memory - Black (CMK16GX4M2E3200C16)
 B0BPTKD797,114.99,114.99,CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V AMD EXPO Intel XMP Desktop Computer Memory - Gray (CMH32GX5M2B6000Z30K)
@@ -75,3 +75,23 @@ B0CK2TC9XQ,145.99,189.99,"Crucial T500 2TB Gen4 NVMe M.2 Internal Gaming SSD, Up
 B0C3K7MTSY,209.99,228.72,"Crucial T700 2TB Gen5 NVMe M.2 SSD - Up to 12,400 MB/s - DirectStorage Enabled - CT2000T700SSD3 - Gaming, Photography, Video Editing & Design - Internal Solid State Drive"
 B07XJ2P1LK,33.99,42.99,TEAMGROUP MP33 512GB SLC Cache 3DNAND TLC NVMe PCIe Gen3x4 M.2 2280 Internal SSD R/W up to 1700/1400 MB/s Compatible w/ Laptop&Desktop TM8FP6512G0C101
 B0CBYZ6DD1,316.9,333.0,"Samsung 990 PRO NVMe M.2 SSD, 4 TB, PCIe 4.0, 7,450 MB/s Read, 6,900 MB/s Write, Internal SSD, for Gaming and Video Editing, MZ-V9P4T0BW"
+B0CZRMY588,35.98,37.98,"700W Power Supply Non Modular ATX PSU with 120mm Ultra Quiet Cooling Fan, Support 115/220V Switch, All Protections"
+B0DHFVYNZC,286.05,286.05,"ASUS ROG Loki SFX-L 1200W Titanium PSU (Fully Modular Power Supply, 80+ Titanium, 120mm PWM ARGB Fan, Aura Sync, ATX 3.0 Compatible, PCIe 5.0 Ready, 10 Year Warranty)"
+B0CYC5GN5M,33.99,33.99,ESGAMING 600W ATX Power Supply with Auto-Thermally Controlled 120mm Fan ATX Gaming Power Supply PSU
+B075M5FRQS,118.86,124.99,"SilverStone Technology SX500-G 500W SFX Fully Modular 80 Plus Gold PSU with Improved 92mm Fan & Japanese Capacitors, SST-SX500-G"
+B08X7BKLWS,199.99,199.99,"ASUS ROG STRIX 1000W Gold PSU, Power Supply (ROG heatsinks, Axial-tech fan design, dual ball fan bearings, 0dB technology, 80 PLUS Gold Certification, fully modular cables, 10-year warranty)"
+B08R5W27JS,79.99,139.99,CORSAIR RM750x Fully Modular ATX Power Supply - 80 PLUS Gold - Low-Noise Fan - Zero RPM - Black
+B014W3EM2W,39.06,44.99,"Thermaltake Smart 500W 80+ White Certified PSU, Continuous Power with 120mm Ultra Quiet Cooling Fan, ATX 12V V2.3/EPS 12V Active PFC Power Supply PS-SPD-0500NPCWUS-W"
+B0991W1HKT,49.99,59.99,MSI MAG A550BN Gaming Power Supply - 80 Plus Bronze Certified 550W - Compact Size - ATX PSU
+B0CC3QBGDL,89.0,99.99,MSI MAG A750GL PCIE 5 & ATX 3.0 Gaming Power Supply - Full Modular - 80 Plus Gold Certified 750W - Compact Size - ATX PSU - 10 Year Warranty
+B0D68TLYKR,81.59,99.99,"Cooler Master MWE Gold 750 V3 ATX 3.1 Full Modular PSU, 750W, 80+ Gold Efficiency, 90° 12VHPWR|450W PCIe 5.1, Japanese Capacitors, Zero-RPM Mode, Hexagonal Fan Cover, 10-Year"
+B0B434DB7Y,141.99,199.99,MSI MPG A1000G PCIE 5 & ATX 3.0 Gaming Power Supply - Full Modular - 80 Plus Gold Certified 1000W - 100% Japanese 105°C Capacitors - Compact Size - ATX PSU
+B09YZ33Z46,129.99,179.99,NZXT C1000 PSU (2022) - PA-0G1BB-US - 1000 Watt PSU - 80+ Gold Certified - Fully Modular - Sleeved Cables - ATX Gaming Power Supply
+B0832N5XF7,49.99,59.99,"Segotep 650W 80 Plus Gold Certified Non-Modular ATX Power Supply with 6+2 Pin Connectors PFC Protection and RoHS Compliance, 120mm Silent Fan Gaming PSU GN-650 Black"
+B0BW9TG9ZY,159.99,179.99,"Corsair 1000W Fully Modular SFX Power Supply - ATX 3.0, PCIe 5.0, Quiet 120mm Fan, 80 Plus Gold, Zero RPM Mode, 105°C Capacitors - Black"
+B0C1JKB652,84.99,109.99,"Thermaltake Toughpower GF A3 750W, True 300W 12VHPWR Connectors on PSU & NVIDIA RTX 40 Series, ATX 3.0/PCI-E 5.0, 80+ Gold, SLI/Crossfire Ready Power Supply, PS-TPD-0750FNFAGU-L, 10 Year Warranty"
+B096KCD9LD,95.99,109.99,"1000W Power Supply 80+ Gold Full Modular PSU, ATX 3.0 & PCIE 5.0, ES1000"
+B0B433ZCRP,299.99,359.99,MEG Ai1300P PCIE 5 & ATX 3.0 Gaming Power Supply - Full Modular - 80 Plus Platinum Certified 1300W - 100% Japanese 105°C Capacitors - Compact Size - ATX PSU
+B0CC821H5S,169.9,169.90,"be quiet! BN516 Straight Power 12-1000w 80 Plus Platinum, ATX 3.0, Modular Power Supply, for PCIe 5.0 GPUs and GPUs with 6+2 pin connectors, Silent 135mm be quiet! Fan - BN516"
+B0CZRH5TMJ,35.99,35.99,"700W ATX Power Supply Non Modular PSU with 4+4 Pin Connectors Auto-Thermally Controlled 120mm Fan, 115/220V Switch"
+B0D467S15T,219.99,219.99,"FSP Hydro Ti PRO 1000W Computer Power Supply 80 Plus Titanium Full Modular PSU ATX 3.0 PCIe GEN5,12V-(2X6) Cable Low Noise PSU and Eco-Friendly Fan 10 Years Warranty (HTI-1000M-GEN5)"
